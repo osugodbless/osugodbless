@@ -1,8 +1,8 @@
 # ![Grey Modern Feature Twitter Post](assets/thumbnail.png)
 
-Hi there 👋 I'm **Godbless Lucky Osu**
+## Hi there 👋 I'm **Godbless Lucky Osu**
 
-**I am an Aspiring DevOps/Cloud Engineer.**
+### **I am an Aspiring DevOps/Cloud Engineer.**
 
 Hi there, I'm Godbless, a dynamic Cloud Engineer and DevOps enthusiast driven by a profound enthusiasm for harnessing technology to solve complex problems. I first became interested in tech when I took an introductory HTML & CSS course during my time as a molecular laboratory intern.
 
