@@ -1,12 +1,10 @@
-# ![Grey Modern Feature Twitter Post](assets/thumbnail.png)
+![Grey Modern Feature Twitter Post](assets/thumbnail.png)
 
 ## Hi there 👋 I'm **Godbless Lucky Osu**
 
-### **I am an Aspiring DevOps/Cloud Engineer.**
+I'm a dynamic Cloud Engineer and DevOps enthusiast driven by a profound enthusiasm for harnessing technology to solve complex problems. I first became interested in tech when I took an introductory HTML & CSS course during my time as a molecular laboratory intern.
 
-Hi there, I'm Godbless, a dynamic Cloud Engineer and DevOps enthusiast driven by a profound enthusiasm for harnessing technology to solve complex problems. I first became interested in tech when I took an introductory HTML & CSS course during my time as a molecular laboratory intern.
-
-Driven by a relentless pursuit of growth, I enrolled and graduated from the African Leadership Xcelerator (ALX), a company dedicated to delivering world-class tech training to millions of people in Africa. As a result, I am proud to hold the AWS Solutions Architect certification, a testament to my commitment to mastering cloud technologies. Currently, I am on a quest to gain more hands-on experience with various cloud technologies and subsequently, achieve more certifications like the AWS Certified Developer Associate certification. This is to further solidify my expertise in cloud development. Ultimately, I aim to optimize operations, enhance security measures, and drive scalable growth for businesses.
+Driven by a relentless pursuit of professional growth, I enrolled in and graduated from a Cloud computing course, offered by the African Leadership Xcelerator (ALX), a company dedicated to delivering world-class tech training to millions of people in Africa. As a result, I am proud to hold the AWS Solutions Architect certification, a testament to my commitment to mastering cloud technologies. Currently, I am on a quest to gain more hands-on experience with various Cloud technologies, DevOps tools, and subsequently, achieve more certifications. This is to further solidify my expertise as a DevOps Engineer. Ultimately, I aim to optimize development and operations, enhance security measures, and drive scalable growth for businesses.
 
 I am currently upskilling and eagerly await the opportunity to embark on my tech career, where I envision making a significant impact as a professional.
 
