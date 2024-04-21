@@ -1,4 +1,4 @@
-![Grey Modern Feature Twitter Post](assets\thumbnail.png)
+# ![Grey Modern Feature Twitter Post](assets/thumbnail.png)
 
 Hi there 👋 I'm **Godbless Lucky Osu**
 
