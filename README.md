@@ -1,4 +1,4 @@
-# ![Grey Modern Feature Twitter Post](https://github.com/Gybee/Gybee/assets/126025855/79b7a58e-6464-43c3-a1c5-4f1972c45afb)
+![Grey Modern Feature Twitter Post](https://github.com/Gybee/Gybee/assets/126025855/79b7a58e-6464-43c3-a1c5-4f1972c45afb)
 
 Hi there 👋 I'm **Godbless Lucky Osu**
 
