@@ -1,3 +1,17 @@
+![Grey Modern Feature Twitter Post](assets/thumbnail.png)
+
+## Hi there 👋 I'm **Godbless Lucky Osu**
+
+I'm a curious and resilient individual with a passion for using technology to solve complex challenges like scalability, reliability, and security. I'm currently focused on backend development, building secure and efficient systems while leveraging cloud technologies. My ultimate goal is to grow into a DevOps role.
+
+As an AWS Certified Solutions Architect, I bring a solid foundation in agile practices, problem-solving, and cloud computing. I'm excited to learn, grow, and contribute to impactful projects.
+
+- 🌱 I’m currently gaining hands-on experience with AWS Cloud tools and backend development with Python
+- 👯 I’m looking to collaborate on backend-related projects and Cloud Projects
+- ⚡ Fun fact: I love networking, and outside of work, I love playing football and biking.
+
+# View My Latest Articles
+
 
 <table>
         <tr>
@@ -17,3 +31,5 @@
             </td>
         </tr>
 </table>
+
+*Updated at: 2025-05-28T02:45:44Z*
