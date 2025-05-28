@@ -31,5 +31,3 @@ As an AWS Certified Solutions Architect, I bring a solid foundation in agile pra
             </td>
         </tr>
 </table>
-
-*Updated at: 2025-05-28T02:45:44Z*
