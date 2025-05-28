@@ -13,3 +13,7 @@ I am currently upskilling and eagerly await the opportunity to embark on my tech
 - 👯 I’m looking to collaborate on Cloud Projects
 - 🤔 I’m looking for help with coding and selecting core DevOps tools to learn (Roadmap)
 - ⚡ Fun fact: I love networking, and outside of work, I love playing football and biking.
+
+# My Latest Articles 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
