@@ -13,5 +13,3 @@ As an AWS Certified Solutions Architect, I bring a solid foundation in agile pra
 # View My Latest Articles
 
 {{ template "article-table" .Articles }}
-
-*Updated at: {{ formatTime .Time }}*
