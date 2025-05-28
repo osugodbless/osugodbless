@@ -1,4 +1,4 @@
-name: "Cronjob"
+name: "Workflow for syncing dev.to blog post"
 on:
  schedule:
   - cron: '59 23 * * 0'
