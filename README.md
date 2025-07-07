@@ -15,6 +15,14 @@ As an AWS Certified Solutions Architect, I bring a solid foundation in agile pra
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j2hayec61yzrsbimopj.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/osugodbless/getting-started-with-databases-sql-mysql-39n5">Getting Started with Databases: SQL &amp; MySQL</a>
+                <div>Databases are at the heart of modern software systems. Having an efficient data storage and retrieval...</div>
+                <div><i>06/07/2025</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsvmmtfiu35seusoq8vei.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/osugodbless/conquering-the-cloud-resume-challenge-my-journey-1lbe">CONQUERING THE CLOUD RESUME CHALLENGE: MY JOURNEY</a>
