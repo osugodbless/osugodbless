@@ -15,6 +15,14 @@ As an AWS Certified Solutions Architect, I bring a solid foundation in agile pra
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi3bcxtcuydpv8pygi3i.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/osugodbless/integrating-python-with-mysql-databases-an-introduction-and-practical-guide-53ao">Integrating Python with MySQL Databases: An Introduction and Practical Guide</a>
+                <div>Table of Contents     Connecting MySQL with Python   Installing MySQL Installing MySQL...</div>
+                <div><i>20/07/2025</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j2hayec61yzrsbimopj.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/osugodbless/getting-started-with-databases-sql-mysql-39n5">Getting Started with Databases: SQL &amp; MySQL</a>
